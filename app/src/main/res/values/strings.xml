@@ -14,4 +14,7 @@
 -->
 <resources>
     <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">Happy Birthday, Tim!</string>
+    <string name="signature_text">Love Lydia x</string>
+    <string name="cupcake_image">Cupcake</string>
 </resources>
